@@ -7,7 +7,7 @@ to provide key context:
 * System architecture
 * Coding style
 
-See [agent-instructions.md](agent-instructions.md) for a starting point.
+See [AGENTS.md](AGENTS.md) for a starting point.
 
 ## Use Automated Tests
 * Maintain a good suite of automated tests.
